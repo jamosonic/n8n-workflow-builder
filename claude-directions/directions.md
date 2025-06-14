@@ -18,16 +18,6 @@ Currently working on getting a residential proxy working in order to build out:
 2. **Groq Script Generator** - Converts to platform scripts
 3. **Performance Tracker** - Logs to Supabase + Raindrop
 
-## Key Requirements:
-
-1. Always validate workflow JSON against actual N8N node structures
-2. Reference n8n.io/workflows for accurate templates when available
-3. Implement comprehensive error handling with exponential backoff
-4. Track API costs in Supabase from day one
-5. Follow account warming protocols strictly (manual → soft automation → full automation)
-6. Optimize for token efficiency in prompts and responses
-7. Focus on practical implementation over theory
-
 ## Workflow Priorities:
 
 1. Reddit Viral Scanner
